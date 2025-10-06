@@ -1,1 +1,1 @@
-# fastapi-htmx-todo
+https://testdriven.io/blog/fastapi-htmx/
